@@ -28,7 +28,7 @@
 <script>
 import axios from "axios";
 
-const url = "http://localhost:5000/api/posts";
+const url = "api/posts";
 
 export default {
   name: "PostComponent",
